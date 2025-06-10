@@ -58,7 +58,7 @@ Installatie en Configuratie
 
 ### Installatiestappen
 
-1.  Download de code: git clone <https://classroom.github.com/a/nZ61_guv> cd <project-map>
+1.  Download de code: git clone: cd <project-map>
 2.  Project openen in Unity:
     -   Start Unity Hub.
     -   Kies "Add" en selecteer de projectmap.
